@@ -7,7 +7,7 @@ package calcolatrice2;
 
 /**
  *
- * @author commander
+ * @author Raffaele_Alfano (Wolfgang_87)
  */
 public class Calc2 extends javax.swing.JFrame {
 
